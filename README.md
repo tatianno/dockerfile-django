@@ -13,4 +13,14 @@ $ docker build -t django-app .
 $ docker run --name some-django-app -d django-app
 ```
 
+Or pull django-app docker image from dockerhub
+
+`$ docker run --name some-django-app -d tatianno/django-app`
+
+## Github Repository
+
+`$ git clone https://github.com/tatianno/dockerfile-django.git`
+
+
+
 
